@@ -1,2 +1,2 @@
-# RockbusterStealth_SQL
-Movie Rental Project - Analysis using SQL
+# RockbusterStealth_Analysis
+Data Analysis project conducted in SQL
